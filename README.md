@@ -1,0 +1,1 @@
+# Divya-Qur-an-Telugu-
