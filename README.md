@@ -8,3 +8,8 @@ accessibility in mind, the app enhances the Quran reading experience for Telugu-
 More Versions Will be pending it will be release in the future.
 
 **Technologies Used:** React Native, Expo Cli, Android Studio, JSON, TypeScript, Play Console.
+
+Divya Quran (Telugu) is a free android Application is available on Play Store.
+
+# Install on Android Mobiles.
+# Play Store App Link: https://play.google.com/store/apps/details?id=com.shaikmustafa.Quraan
