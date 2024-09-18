@@ -1,1 +1,1 @@
-# Divya-Qur-an-Telugu-
+# Divya Quran (Telugu)
